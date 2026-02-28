@@ -78,24 +78,6 @@ to filter by zone, pollutant and date range; explore each analysis tab.
    python scripts/visual_audit.py
    ```
 
-## 📦 Publishing to GitHub
-
-If you haven't yet initialised a Git repository locally, do so and set
-the remote using the provided link:
-
-```bash
-cd D:/6\ Semester\ Subjects/Data\ Science/Assignment_02
-git init
-git add .
-git commit -m "Initial commit: complete dashboard and analysis scripts"
-git branch -M main
-git remote add origin https://github.com/AbdurRafayBaig/Urban-Environmental-Intelligence-2025.git
-git push -u origin main
-```
-
-Replace the remote URL with the one you create if it differs. After
-pushing, future changes can be committed and pushed normally.
-
 ## 📝 License
 
 This project is released under the MIT License – feel free to reuse or
